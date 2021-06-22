@@ -1,4 +1,4 @@
-modpack go brrrrrrrrrrrrr
+this sucks
 
 # Changelog
 June 21
