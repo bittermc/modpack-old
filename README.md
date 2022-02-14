@@ -1,9 +1,6 @@
 # Necessary mods
 mod descriptions (with slight edits from mac) yoinked from their mod page
 
-[Alternative Current](https://www.modrinth.com/mod/alternate-current) - An efficient and non-locational redstone dust implementation
- ^ will most likely be removed as it's only required on server-side
-
 [AppleSkin](https://www.modrinth.com/mod/appleskin) - Food/hunger-related HUD improvements
 [(CF) Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) - An intermediary api aimed to ease developing multiplatform mods.
 [(CF) Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) - A config screen api.
@@ -18,11 +15,13 @@ mod descriptions (with slight edits from mac) yoinked from their mod page
  ^ may be replaced with another mod with similar features
  ^ may be removed as mods in client-side may be too new with new features that might break parity with server until server-side mods are updated. might be wrong on this one
 
+[(CF) Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone) - Fixes deadlocks caused by https://bugs.mojang.com/browse/MC-246262
 [(CF) Fixed Waterlogging](https://www.curseforge.com/minecraft/mc-mods/fixed-waterlogging) - Adds waterlogging to almost all blocks that could need it
 [(CF) GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib) - A 3D animation library for entities, blocks, items, armor, and more!
 [Universal Graves](https://www.modrinth.com/mod/universal-graves) - Customizable grave mod for Fabric!
 [Mod Menu](https://www.modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
 [Mouse Wheelie](https://www.modrinth.com/mod/mouse-wheelie/versions) - A "small" client-side mod featuring item scrolling, inventory sorting, item refilling and more!
+[(CF) No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors) - Fixes structure crash in 1.17+ due to null processor lists coming from nowhere
 [Repurposed Structures](https://www.modrinth.com/mod/repurposed-structures-fabric) - Adds more variations of vanilla structures and features such as a Jungle Fortress!
 [(CF) Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) - An easy way to browse recipes.
 [(CF) Roughly Enough Resources](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources) - Worldgen support for Roughly Enough Items
@@ -31,7 +30,8 @@ mod descriptions (with slight edits from mac) yoinked from their mod page
 
 **Recent changes**
 
-```````
+```````diff
 * Update mods
-+ Add Gate of Babylon
++ Added Feature NBT Deadlock Be Gone and No Null Processors as dependecies for Repurposed Structures
++ Added Gate of Babylon
 - Removed Alternative Current as it's only required in server-side
