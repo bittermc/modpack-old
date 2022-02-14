@@ -1,3 +1,6 @@
+![img](bitter!pack banner.png)
 
+<h1 align="center">bitter!pack</h1>
 
-bitter!pack - bitter!mc's modpack lol
+[Discord](https://discord.gg/BVCx4jYafb)
+
