@@ -16,4 +16,3 @@ mod descriptions (with slight edits from mac) yoinked from their mod pages
 * Update mods
 - Removed Mod-erate Loading Screen. Listed in README as "Other miscellaneous mods not in branch"
 ``````
-
