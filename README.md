@@ -13,6 +13,7 @@ mod descriptions (with slight edits from mac) yoinked from their mod page
 [![img](https://raw.githubusercontent.com/bittermc/modpack/master/curseforge%20icon.png)Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) - An intermediary api aimed to ease developing multiplatform mods.<br>
 [![img](https://raw.githubusercontent.com/bittermc/modpack/master/curseforge%20icon.png)Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) - A config screen api.<br>
 ^ may be moved to misc branch as this is not required. might be wrong on this one
+^ comments will be removed once Sound Physics is added
 
 [![img](https://raw.githubusercontent.com/bittermc/modpack/master/curseforge%20icon.png)GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib) - A 3D animation library for entities, blocks, items, armor, and more!<br>[![img](https://raw.githubusercontent.com/bittermc/modpack/master/curseforge%20icon.png)Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone) - Fixes deadlocks caused by https://bugs.mojang.com/browse/MC-246262<br>[![img](https://raw.githubusercontent.com/bittermc/modpack/master/curseforge%20icon.png)No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors) - Fixes structure crash in 1.17+ due to null processor lists coming from nowhere<br>
 
@@ -24,6 +25,20 @@ mod descriptions (with slight edits from mac) yoinked from their mod page
 **Optimization**<br>See [optimization branch](https://github.com/bittermc/modpack/tree/optimization).
 
 **Miscellaneous**<br>See [misc branch](https://github.com/bittermc/modpack/tree/misc).
+
+#### Mods that might be added
+
+- [ ] [Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether), with [BCLib](https://www.curseforge.com/minecraft/mc-mods/bclib) as a dependency
+- [ ] [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis), with [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric) as an additional dependency
+- [ ] [Sound Physics](https://www.modrinth.com/mod/soundphysics)
+- [ ] [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
+- [ ] [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
+- [ ] [Ksyxis](https://www.modrinth.com/mod/ksyxis)
+- [ ] [ExtraSounds](https://www.modrinth.com/mod/extrasounds) (i dont really need to test this)
+- [ ] [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph-fabric) (will be placed in misc as a debug mod for now)
+- [ ] [What Mod Is This Actually From?](https://www.curseforge.com/minecraft/mc-mods/wmitaf) (i dont really need to test this)
+
+
 
 **Recent changes**
 
