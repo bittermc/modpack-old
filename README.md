@@ -12,9 +12,9 @@ mod descriptions (with slight edits from mac) yoinked from their mod page
 [Fabric API](https://www.modrinth.com/mod/fabric-api) - Core API library for the Fabric toolchain<br>
 [(CF) Fabrication](https://www.curseforge.com/minecraft/mc-mods/fabrication) - A huge collection of vanilla tweaks and small features. Trident improvements, bug fixes, furnace minecart changes, and more<br>
 [(CF) Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater) - Easy update-checker for Fabric mods.
- ^ may be moved to misc branch as this is not necessary
- ^ may be replaced with another mod with similar features
- ^ may be removed as mods in client-side may be too new with new features that might break parity with server until server-side mods are updated. might be wrong on this one<br>
+ ^ may be moved to misc branch as this is not necessary<br>
+ ^ may be replaced with another mod with similar features<br>
+ ^ may be removed as mods in client-side may be too new with new features that might break parity with server until server-side mods are updated. might be wrong on this one
 
 [(CF) Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone) - Fixes deadlocks caused by https://bugs.mojang.com/browse/MC-246262<br>
 [(CF) Fixed Waterlogging](https://www.curseforge.com/minecraft/mc-mods/fixed-waterlogging) - Adds waterlogging to almost all blocks that could need it<br>
