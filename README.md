@@ -1,4 +1,4 @@
-![img](bitter!pack banner.png)
+![img](./bitter!pack banner.png)
 
 <h1 align="center">bitter!pack</h1>
 
